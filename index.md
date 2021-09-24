@@ -11,8 +11,8 @@ Therefore, there is no doubt that computer science becomes my major.\
 Unviersity of California San Diego \
 Major: Computer science \
 Degree: Undergraduate \
-Expected Graduation: 2022 July\ 
-GPA: 3.9\ 
+Expected Graduation: 2022 July \ 
+GPA: 3.9 \ 
 
 ## Hobby 
 1. Photography
@@ -66,5 +66,5 @@ here is the longest I have ever coded.
 3. Acquire a position in the job market 
 4. Become an expert or start a business by 35 
 
-
+[README](./README.md)
 
