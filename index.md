@@ -3,7 +3,7 @@
 # About Me 
 My name is Dennis, senior computer science student at UCSD. I am really interested in computers, I had my first computer when I was 10, built 2 PCs along the way. 
 Therefore, there is no doubt that computer science becomes my major.\
-[experience](#programming-language)
+[Experience](#programming-language)
 [Progress](#future-development)
 [Goals](#goals)
 
@@ -11,9 +11,8 @@ Therefore, there is no doubt that computer science becomes my major.\
 Unviersity of California San Diego \
 Major: Computer science \
 Degree: Undergraduate \
-Expected Graduation: 2022 July 
-
-
+Expected Graduation: 2022 July\ 
+GPA: 3.9\ 
 
 ## Hobby 
 1. Photography
