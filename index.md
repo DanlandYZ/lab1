@@ -1,3 +1,5 @@
+![Profile Picture](IMG_3738.JPG)
+
 # About Me 
 [experience](## Programming Language)\
 My name is Dennis, senior computer science student at UCSD. I am really interested in computers, I had my first computer when I was 10, built 2 PCs along the way. 
