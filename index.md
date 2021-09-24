@@ -1,4 +1,4 @@
-<img src=IMG_3738.JPG width="30%" height="30%">
+<img src=IMG_3738.JPG width="40%" height="40%">
 
 # About Me 
 [experience](## Programming Language)\
