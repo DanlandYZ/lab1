@@ -3,9 +3,9 @@
 # About Me 
 My name is Dennis, senior computer science student at UCSD. I am really interested in computers, I had my first computer when I was 10, built 2 PCs along the way. 
 Therefore, there is no doubt that computer science becomes my major.\
-[experience](#programming-language)\ 
-[Progress](#future-development)\ 
-[Goals](#goals)\ 
+[experience](#programming-language)
+[Progress](#future-development)
+[Goals](#goals)
 
 ## Education 
 Unviersity of California San Diego \
