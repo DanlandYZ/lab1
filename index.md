@@ -1,8 +1,10 @@
-<img src="IMG_3738.jpg" width="50%" height="50%">
-![](IMG_3738.jpg)
+<img src="IMG_3738.jpg" width="40%" height="40%">
 
 # About Me 
-[experience](#Programming Language)
+[experience](#programming-language)
+[Progress](#future-development)
+[Goals](#goals)
+
 My name is Dennis, senior computer science student at UCSD. I am really interested in computers, I had my first computer when I was 10, built 2 PCs along the way. 
 Therefore, there is no doubt that computer science becomes my major. 
 
