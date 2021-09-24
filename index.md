@@ -1,4 +1,4 @@
-![Profile Picture](IMG_3738.JPG){width=250px}
+![Profile Picture](IMG_3738.JPG | width=250)
 
 # About Me 
 [experience](## Programming Language)\
