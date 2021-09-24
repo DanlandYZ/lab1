@@ -1,5 +1,4 @@
-<img src=IMG_3738.JPG width="100" height="100">
-![Profile Picture](IMG_3738.JPG | width=250)
+<img src=IMG_3738.JPG width="50%" height="50%">
 
 # About Me 
 [experience](## Programming Language)\
