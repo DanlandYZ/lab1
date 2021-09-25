@@ -11,8 +11,8 @@ Therefore, there is no doubt that computer science becomes my major.\
 Unviersity of California San Diego \
 Major: Computer science \
 Degree: Undergraduate \
-Expected Graduation: 2022 July \ 
-GPA: 3.9 \ 
+Expected Graduation: 2022 July\
+GPA: 3.9 
 
 ## Hobby 
 1. Photography
